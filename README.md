@@ -25,6 +25,7 @@ This project demonstrates how to build a clean and secure PHP CRUD app **without
 git clone https://github.com/jkennethmanalo96-maker/tech-exam-mini-crud.git
 cd tech-exam-mini-crud
 
+Note: Database setup is handled via migrations and seeders. No SQL dump is required.
 
 ### 2️⃣ Start Docker containers
 docker-compose up -d
